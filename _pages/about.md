@@ -142,7 +142,7 @@ redirect_from:
 - 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
 - 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
 - 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
+- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) -->
 
 
 
@@ -150,7 +150,7 @@ redirect_from:
 
 
 
-<span class='anchor' id='-ryjx'></span> -->
+<span class='anchor' id='-ryjx'></span> 
 
 # 🏅 荣誉奖项
 <!-- - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
