@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我就读于于湖南长沙的 中南大学 计算机学院 计算机科学与技术专业。
+I am an undergraduate student majoring in Computer Science and Technology at the School of Computer Science and Engineering, Central South University, Changsha, China.
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 <!-- 我的研究领域包括：
@@ -31,14 +31,14 @@ redirect_from:
   
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='education'></span>
 
-# 🎓 学历
-- *2024.09 - 至今*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images\中南大学-logo.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 本科 
+# 🎓 Education
+- *September 2024 - Present*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/中南大学-logo.svg" width="23pt"></a> B.Eng. candidate in Computer Science and Technology, School of Computer Science and Engineering, Central South University, Changsha, China
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='publications'></span>
 
-# 📝 论文专利
+# 📝 Publications & Patents
 
 <!-- ### 英文
 ---
@@ -150,23 +150,23 @@ redirect_from:
 
 
 
-<span class='anchor' id='-ryjx'></span> 
+<span class='anchor' id='honors-awards'></span>
 
-# 🏅 荣誉奖项
+# 🏅 Honors & Awards
 <!-- - *2015.11* 获得 第十四届“挑战杯”全国大学生课外学术科技作品竞赛 `一等奖`  
 - *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`   -->
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='conferences'></span>
 
-# 🏛️ 学术会议
+# 🏛️ Conferences
 <!-- - *2021.10*, 全国电磁无损检测技术研讨会 暨 中国机械工程学会无损检测分会电磁专业技术大会第十一届第四次全体会议, 陕西西安, 受邀报告
 - *2019.09*, 第十九届国际应用电磁学与力学会议 (ISEM 2019), 江苏南京, 海报
 - *2017.10*, 第六届中国国际管道会议 (CIPC 2017), 河北廊坊 -->
 
-<span class='anchor' id='-gzsx'></span>
+<span class='anchor' id='experience'></span>
 
-# 💻 工作实习
+# 💻 Experience
 <!-- - *2018.05 - 2020.02*, 重庆长江轴承股份有限公司, 重庆
 - *2020.11.25 - 2020.12.02*, 湖北新冶钢有限公司, 湖北黄石
 - *2017.6 - 2021.1*, 制造装备数字化国家工程研究中心, 湖北武汉 -->
